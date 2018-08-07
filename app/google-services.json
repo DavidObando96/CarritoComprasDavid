@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "346749814352",
+    "firebase_url": "https://carritocomprasdavid.firebaseio.com",
+    "project_id": "carritocomprasdavid",
+    "storage_bucket": "carritocomprasdavid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346749814352:android:0b7b5e0288997e8a",
+        "android_client_info": {
+          "package_name": "com.example.com.carritocomprasdavid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346749814352-m8qh8e44v772ctls8jouckngqvbshr08.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.com.carritocomprasdavid",
+            "certificate_hash": "a86de917579a320654e96e038ac50cd591959e27"
+          }
+        },
+        {
+          "client_id": "346749814352-vb0uatmu7m1or6tg1jdvr9be7oapv0i2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ3v2rrOwuX8C1DsubaXuyAxJpsxuJvg0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346749814352-vb0uatmu7m1or6tg1jdvr9be7oapv0i2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
